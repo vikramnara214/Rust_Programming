@@ -1,0 +1,7 @@
+# Compiled Rust files
+*.exe
+*.pdb
+
+# Rust target directories
+/target/
+**/target/
